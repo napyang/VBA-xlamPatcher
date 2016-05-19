@@ -7,7 +7,7 @@ You can put your add-in(.xlam) files and brief files(.txt) in the local network 
 ![image](https://github.com/napyang/VBA-xlamPatcher/raw/master/screenshots/FileStructure.png)
 
 #Start Button
-Click on this button, and user can get the newest you published. It also do the check automaticlly after 30 days, and pop up if it needs.
+Click on this button, and user can get the newest you published. It also do the check automaticlly after 30 days, and pop up if it is necessary.
 
 ![image](https://github.com/napyang/VBA-xlamPatcher/raw/master/screenshots/StartButton.png)
 
