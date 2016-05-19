@@ -13,7 +13,8 @@ Click on this button, and user can get the newest you published. It also do the 
 
 #UI
 This UI contains 3 part.
-1.	Add-ins you've installed. It shows the new version that you can update.
-2.	Add-ins you do not installed. It shows the add-ins that you can install.
-3.	Add-in info. It shows the add-in infomation you choosed.
+
+1. Add-ins you've installed. It shows the new version that you can update.
+2. Add-ins you do not installed. It shows the add-ins that you can install.
+3. Add-in info. It shows the add-in infomation you choosed.
 ![image](https://github.com/napyang/VBA-xlamPatcher/raw/master/screenshots/MainUI.png)
