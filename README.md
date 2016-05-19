@@ -18,3 +18,8 @@ This UI contains 3 part.
 2. Add-ins you do not installed. It shows the add-ins that you can install.
 3. Add-in info. It shows the add-in infomation you choosed.
 ![image](https://github.com/napyang/VBA-xlamPatcher/raw/master/screenshots/MainUI.png)
+
+
+#About
+
+Author: Nap Yang
